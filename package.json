@@ -1,0 +1,25 @@
+{
+  "name": "json-server-generic-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matefs/json-server-generic-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matefs/json-server-generic-api/issues"
+  },
+  "homepage": "https://github.com/matefs/json-server-generic-api#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "json-server": "global"
+  }
+}

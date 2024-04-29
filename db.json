@@ -1,0 +1,199 @@
+{
+  "usuarios": [
+    {
+      "nome": "Mateus Filipe Schverz",
+      "email": "matefs8569@gmail.com",
+      "dataNascimento": "2001-02-02",
+      "sexo": "masculino",
+      "cidade": "Concórdia",
+      "estado": "SC",
+      "senha": "123",
+      "confirmarSenha": "123",
+      "cpf": "112.553.389-70",
+      "id": 3
+    },
+    {
+      "nome": "Mateus Filipe Schverz",
+      "email": "matefs8569@gmail.com",
+      "dataNascimento": "2001-02-02",
+      "sexo": "masculino",
+      "cidade": "Concórdia",
+      "estado": "SC",
+      "senha": "123",
+      "confirmarSenha": "123",
+      "cpf": "112.553.389-70",
+      "id": 4
+    },
+    {
+      "nome": "Josefino",
+      "email": "joseph@email.com",
+      "dataNascimento": "2001-02-01",
+      "sexo": "masculino",
+      "cidade": "Seila",
+      "estado": "PB",
+      "senha": "123",
+      "confirmarSenha": "123",
+      "cpf": "11231231231",
+      "id": 5
+    },
+    {
+      "nome": "Nilson",
+      "email": "nilson@email.com",
+      "dataNascimento": "2001-09-20",
+      "sexo": "masculino",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "senha": "123",
+      "confirmarSenha": "123",
+      "cpf": "32123123121",
+      "id": 6
+    },
+    {
+      "nome": "Tobias de Aguiar",
+      "email": "tobias@gmail.com",
+      "dataNascimento": "2001-09-20",
+      "sexo": "masculino",
+      "cidade": "Cidade",
+      "estado": "MS",
+      "senha": "123",
+      "confirmarSenha": "123",
+      "cpf": "21321321313",
+      "id": 7
+    },
+    {
+      "nome": "Otavio",
+      "email": "otavio@otavio.com.br",
+      "dataNascimento": "2000-01-02",
+      "sexo": "masculino",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "senha": "123456",
+      "confirmarSenha": "123456",
+      "cpf": "74747474747",
+      "id": 8
+    },
+    {
+      "nome": "Otavio",
+      "email": "otavio@otavio.com.br",
+      "dataNascimento": "2000-01-02",
+      "sexo": "masculino",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "senha": "123456",
+      "confirmarSenha": "123456",
+      "cpf": "74747474747",
+      "id": 9
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Camiseta",
+      "preco": 29.99,
+      "quantidade": 10,
+      "imagem": "https://i.etsystatic.com/12355681/r/il/1a260b/1587523210/il_fullxfull.1587523210_t3ob.jpg"
+    },
+    {
+      "nome": "Calça Jeans Cho1",
+      "preco": "10",
+      "quantidade": "3",
+      "imagem": "https://c.shld.net/rpx/i/s/i/spin/10158478/prod_2114308312??hei=64&wid=64&qlt=50",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Calça Jeans",
+      "preco": 79.99,
+      "quantidade": 5,
+      "imagem": "https://c.shld.net/rpx/i/s/i/spin/10158478/prod_2114308312??hei=64&wid=64&qlt=50"
+    },
+    {
+      "nome": "Moletom 1",
+      "preco": "10",
+      "quantidade": "1",
+      "imagem": "https://http2.mlstatic.com/moletons-moletom-casaco-blusa-liso-atacado-barato-oferta-D_NQ_NP_787663-MLB27983035324_082018-F.jpg",
+      "id": 4
+    },
+    {
+      "nome": "Tenis nike",
+      "preco": "1",
+      "quantidade": "10",
+      "imagem": "https://freepngimg.com/thumb/shoes/28530-3-nike-shoes-transparent.png",
+      "id": 7
+    },
+    {
+      "nome": "Suéter",
+      "preco": "200",
+      "quantidade": "50",
+      "imagem": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F0b%2F8a%2Fa5%2F0b8aa54f1ad9594bd0b7fd161c7d34ad.jpg&f=1&nofb=1&ipt=b5fc116cba654e8d0f93746e473d4e6cd7958b462c13a0df4784d3b308e26e07&ipo=images",
+      "id": 8
+    },
+    {
+      "nome": "teste",
+      "preco": "299",
+      "quantidade": "2",
+      "imagem": "https://stanley.fbitsstatic.net/img/p/copo-termico-de-cerveja-stanley-473ml-98520/285300-1.jpg?w=495&h=500&v=no-change&qs=ignore",
+      "id": 9
+    },
+    {
+      "nome": "Produto",
+      "preco": "10",
+      "quantidade": "1",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/641157/xicara_de_cha_com_pires_em_plastico_zeek_linha_pop_787_1_20190531094427.jpg",
+      "id": 10
+    },
+    {
+      "nome": "Camiseta minions",
+      "preco": "100",
+      "quantidade": "10",
+      "imagem": "https://bandupstorehlog.fbitsstatic.net/img/p/camiseta-minions-banana-70398/257938.jpg?w=800&h=1100&v=no-change&qs=ignore",
+      "id": 11
+    }
+  ],
+  "learnhttp": [
+    {
+      "id": 1,
+      "teste": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "content": "Este é o conteúdo da minha nova entrada.",
+      "id": 4
+    },
+    {
+      "content": "Olha mundo",
+      "id": 5
+    },
+    {
+      "content": "Olha mundo",
+      "id": 6
+    },
+    {
+      "content": "Olha mundo",
+      "id": 7
+    },
+    {
+      "content": "Olha mundo",
+      "id": 8
+    }
+  ],
+  "journals": [
+    {
+      "id": "5e084bf0-0897-11ee-b1f9-a7f14b5311c7",
+      "content": "",
+      "created_at": "2023-06-11 17:34:30.576",
+      "updated_at": "2023-06-11 17:34:30.576"
+    },
+    {
+      "id": "30b232d0-0d9f-11ee-aa4e-c31457ec5911",
+      "content": "",
+      "created_at": "2023-06-18 03:13:06.302",
+      "updated_at": "2023-06-18 03:13:06.302"
+    }
+  ]
+}
